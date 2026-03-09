@@ -8,6 +8,8 @@ This easily allows you to control and configure your control via serial console 
 
 This library encapsulates the Console component included in the ESP-IDF and allows to use it in an easy "Arduino-way".
 
+NOTE: This repo is forked from [jbtronics/ESP32Console](https://github.com/jbtronics/ESP32Console) to address compiler errors.
+
 ![Screenshot of console output](extras/screenshot.png)
 
 ## Features
