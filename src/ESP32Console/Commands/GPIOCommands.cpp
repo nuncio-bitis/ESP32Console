@@ -1,3 +1,5 @@
+#include <string>
+#include <stdexcept>
 #include "./GPIOCommands.h"
 #include "Arduino.h"
 

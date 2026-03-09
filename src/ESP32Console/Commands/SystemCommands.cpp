@@ -6,6 +6,7 @@
 #include <esp_system.h>
 #include <core_version.h>
 #include <getopt.h>
+#include <esp_chip_info.h>
 
 // For XSTR macros
 #include <xtensa/xtruntime.h>
